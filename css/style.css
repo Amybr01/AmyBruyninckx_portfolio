@@ -1857,8 +1857,8 @@ footer p {
 
     .footer-username::before {
       
-        width: 400px;  /* grootste giraffe voor web */
-        height: 160px; /* passend bij breedte */
+        width: 400px; 
+        height: 160px;
        
         background-position: center bottom;
         background-size: contain;
